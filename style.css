@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+}
+#nav{
+    border-bottom: 4px solid rgb(89, 255, 89);
+}
+.header
+{
+    font-size: 35px;
+    font-weight: 600;
+    text-transform: capitalize;
+    color:#59ff59 ;
+}
+.info{
+    font-size: 22px;
+    text-transform: capitalize;
+}
+.btn{
+    background-color: rgb(69, 221, 69);
+    color: white;
+    border-radius: 24px;
+    padding: 11px 43px;
+}
+#f-icons{
+    color: #31cc31;
+    font-size: 34px;
+    padding:  0 138px 15px 138px;
+}
+.height{
+    height: 100px;
+}
